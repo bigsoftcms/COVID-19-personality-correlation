@@ -1,5 +1,7 @@
 # Correlation of COVID-19 and the Big 5 Personality
 
+Correlation of growth of confirmed cases and the Big 5 Personality Test
+
 - Pearson correlation
 - Spearman correlation
 
